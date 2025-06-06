@@ -50,7 +50,7 @@ body {
   justify-content: center;
   user-select: none;
   -webkit-user-select: none;
-  margin: 24dvh 0;
+  margin: 12dvh 0;
 }
 
 .envelope {
